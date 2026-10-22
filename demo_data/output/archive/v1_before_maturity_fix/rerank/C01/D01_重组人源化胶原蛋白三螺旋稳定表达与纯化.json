@@ -1,0 +1,50 @@
+{
+  "tech_relevance": {
+    "score": 8,
+    "comment": "BP核心为重组人源化胶原蛋白的表达与纯化，与鲜味肽/苦味肽分离纯化在产物类型和技术问题上均不同，仅分离纯化环节有通用性。"
+  },
+  "process_match": {
+    "score": 6,
+    "comment": "BP涉及分离纯化环节，但针对胶原蛋白的低温酸溶与亲和层析，未展示针对肽类混合物（鲜味肽/苦味肽）的分离纯化实际能力。"
+  },
+  "maturity": {
+    "score": 8,
+    "comment": "BP处于小试阶段，题目未明确最低成熟度要求，按小试给8分。"
+  },
+  "evidence_strength": {
+    "score": 4,
+    "comment": "BP对纯化效果仅有目标值且标注待核实，缺乏针对肽分离的量化数据与可核查证据。"
+  },
+  "inference_deductions": [],
+  "recommendation": "BP技术路线与题目核心需求（鲜味肽定向富集与苦味肽去除）不匹配，产物不同且纯化方法不通用，不建议推荐。",
+  "evidence_quotes": [
+    "下游采用低温酸溶与亲和层析两步纯化，在保持结构稳定的同时去除内毒素与宿主蛋白。",
+    "需补充两步纯化后各残留指标的具体数值、检测机构与检测方法。",
+    "报名阶段为小试。"
+  ],
+  "gaps_risks": [
+    "BP未涉及鲜味肽或苦味肽的分离纯化，缺乏相关技术积累。",
+    "BP的纯化方法针对胶原蛋白，难以直接迁移至小分子肽的分离。",
+    "BP缺乏肽类分离的量化数据与工艺验证。"
+  ],
+  "raw_total": 26,
+  "inference_deducted": 0,
+  "total": 26,
+  "relies_on_inference": false,
+  "bp": "D01_重组人源化胶原蛋白三螺旋稳定表达与纯化",
+  "project_name": "重组人源化胶原蛋白三螺旋稳定表达与纯化",
+  "company_name": "澄源生物工程有限公司",
+  "coarse": {
+    "bp": "D01_重组人源化胶原蛋白三螺旋稳定表达与纯化",
+    "project_name": "重组人源化胶原蛋白三螺旋稳定表达与纯化",
+    "tag_score": 0.6667,
+    "matched_tags": [
+      "分离纯化［原文］"
+    ],
+    "text_score": 0.0803,
+    "text_score_norm": 0.196,
+    "combined": 0.4314,
+    "text_rank": 6,
+    "combined_rank": 13
+  }
+}

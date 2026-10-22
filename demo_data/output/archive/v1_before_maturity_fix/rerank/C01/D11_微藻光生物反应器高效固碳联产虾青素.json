@@ -1,0 +1,51 @@
+{
+  "tech_relevance": {
+    "score": 5,
+    "comment": "BP核心是微藻固碳联产虾青素，与鲜味肽/苦味肽的分离纯化无关，产物和技术问题均不对口。"
+  },
+  "process_match": {
+    "score": 3,
+    "comment": "BP仅提及分离纯化环节，但未展示针对肽类分离纯化的实际能力，且主要工艺为光生物反应器培养。"
+  },
+  "maturity": {
+    "score": 8,
+    "comment": "BP处于小试阶段，题目未明确最低成熟度要求，按小试给8分。"
+  },
+  "evidence_strength": {
+    "score": 2,
+    "comment": "BP对分离纯化能力无任何量化数据或可核查证据，且多项指标标注待核实。"
+  },
+  "inference_deductions": [],
+  "recommendation": "不推荐。BP技术路线与题目要求的鲜味肽富集和苦味肽去除分离纯化工艺完全不相关，无法解决企业难题。",
+  "evidence_quotes": [
+    "本项目技术对象为工业尾气中CO2的高效生物固定与雨生红球藻虾青素联产。",
+    "工艺路线：尾气预处理→气液分离与气体调配→管式光生物反应器接种培养→光强与氮源分段调控诱导→藻液采收与虾青素提取",
+    "报名阶段为小试。"
+  ],
+  "gaps_risks": [
+    "BP未涉及鲜味肽或苦味肽相关产物，缺乏肽分离纯化技术能力。",
+    "BP的分离纯化环节针对虾青素提取，与肽类分离纯化工艺差异大。",
+    "BP无处理量、纯度、去除率等关键指标数据，无法满足题目要求。"
+  ],
+  "raw_total": 18,
+  "inference_deducted": 0,
+  "total": 18,
+  "relies_on_inference": false,
+  "bp": "D11_微藻光生物反应器高效固碳联产虾青素",
+  "project_name": "微藻光生物反应器高效固碳联产虾青素",
+  "company_name": "藻光碳汇科技有限公司",
+  "coarse": {
+    "bp": "D11_微藻光生物反应器高效固碳联产虾青素",
+    "project_name": "微藻光生物反应器高效固碳联产虾青素",
+    "tag_score": 1.0,
+    "matched_tags": [
+      "分离纯化［原文］",
+      "食品营养［推测］"
+    ],
+    "text_score": 0.0581,
+    "text_score_norm": 0.1418,
+    "combined": 0.5709,
+    "text_rank": 14,
+    "combined_rank": 10
+  }
+}

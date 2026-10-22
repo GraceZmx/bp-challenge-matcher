@@ -1,0 +1,606 @@
+{
+  "challenge_id": "C01",
+  "company": "鲜味源食品科技有限公司",
+  "query_original": "需要一种能定向富集鲜味肽并同步去除苦味肽的分离纯化工艺，处理量不低于100升/批次，鲜味肽纯度≥85%，苦味肽去除率≥90%。 天然鲜味肽 鲜味肽 苦味肽 鲜味肽 苦味肽 分离纯化 酶解鱼蛋白 定向富集 去除",
+  "query_inferred": "核心瓶颈在于酶解鱼蛋白产物中鲜味肽含量低（<15%）且苦味肽占比高，导致产品鲜味不足、苦味明显，需要开发高选择性的分离纯化工艺实现鲜味肽富集与苦味肽去除。",
+  "weights": {
+    "tag": 0.5,
+    "text": 0.5
+  },
+  "excluded_self": [],
+  "candidates": [
+    {
+      "bp": "D21_基于多级膜分离与吸附联用的鲜味肽定向纯化工艺",
+      "project_name": "基于多级膜分离与吸附联用的鲜味肽定向纯化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.4097,
+      "text_score_norm": 1.0,
+      "combined": 1.0,
+      "text_rank": 1,
+      "combined_rank": 1
+    },
+    {
+      "bp": "D08_鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "project_name": "鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.2974,
+      "text_score_norm": 0.7259,
+      "combined": 0.863,
+      "text_rank": 2,
+      "combined_rank": 2
+    },
+    {
+      "bp": "D17_高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "project_name": "高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.1002,
+      "text_score_norm": 0.2445,
+      "combined": 0.6222,
+      "text_rank": 4,
+      "combined_rank": 3
+    },
+    {
+      "bp": "D22_重组人乳铁蛋白在丝状真菌中的高效表达",
+      "project_name": "重组人乳铁蛋白在丝状真菌中的高效表达",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.099,
+      "text_score_norm": 0.2417,
+      "combined": 0.6209,
+      "text_rank": 5,
+      "combined_rank": 4
+    },
+    {
+      "bp": "D13_乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "project_name": "乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0797,
+      "text_score_norm": 0.1945,
+      "combined": 0.5973,
+      "text_rank": 7,
+      "combined_rank": 5
+    },
+    {
+      "bp": "D03_工程菌发酵生产天然抗氧化剂紫檀芪",
+      "project_name": "工程菌发酵生产天然抗氧化剂紫檀芪",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.074,
+      "text_score_norm": 0.1806,
+      "combined": 0.5903,
+      "text_rank": 9,
+      "combined_rank": 6
+    },
+    {
+      "bp": "D02_生物酶法脱胶用于植物油精炼的绿色工艺",
+      "project_name": "生物酶法脱胶用于植物油精炼的绿色工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.072,
+      "text_score_norm": 0.1758,
+      "combined": 0.5879,
+      "text_rank": 10,
+      "combined_rank": 7
+    },
+    {
+      "bp": "D16_微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "project_name": "微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0629,
+      "text_score_norm": 0.1535,
+      "combined": 0.5767,
+      "text_rank": 11,
+      "combined_rank": 8
+    },
+    {
+      "bp": "D23_固定化酶法合成低聚半乳糖的连续化工艺",
+      "project_name": "固定化酶法合成低聚半乳糖的连续化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0619,
+      "text_score_norm": 0.151,
+      "combined": 0.5755,
+      "text_rank": 12,
+      "combined_rank": 9
+    },
+    {
+      "bp": "D11_微藻光生物反应器高效固碳联产虾青素",
+      "project_name": "微藻光生物反应器高效固碳联产虾青素",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0581,
+      "text_score_norm": 0.1418,
+      "combined": 0.5709,
+      "text_rank": 14,
+      "combined_rank": 10
+    },
+    {
+      "bp": "D24_基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "project_name": "基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0545,
+      "text_score_norm": 0.1331,
+      "combined": 0.5666,
+      "text_rank": 17,
+      "combined_rank": 11
+    },
+    {
+      "bp": "D25_基于仿生亲和材料的靶向捕获-梯度洗脱技术",
+      "project_name": "基于仿生亲和材料的靶向捕获-梯度洗脱技术",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.114,
+      "text_score_norm": 0.2783,
+      "combined": 0.4725,
+      "text_rank": 3,
+      "combined_rank": 12
+    },
+    {
+      "bp": "D01_重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "project_name": "重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0803,
+      "text_score_norm": 0.196,
+      "combined": 0.4314,
+      "text_rank": 6,
+      "combined_rank": 13
+    },
+    {
+      "bp": "D20_酶法定向合成结构可控的甘油葡糖苷",
+      "project_name": "酶法定向合成结构可控的甘油葡糖苷",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0744,
+      "text_score_norm": 0.1815,
+      "combined": 0.4241,
+      "text_rank": 8,
+      "combined_rank": 14
+    },
+    {
+      "bp": "D14_基于极端酶定向进化的长效生物催化剂开发",
+      "project_name": "基于极端酶定向进化的长效生物催化剂开发",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.06,
+      "text_score_norm": 0.1465,
+      "combined": 0.4066,
+      "text_rank": 13,
+      "combined_rank": 15
+    }
+  ],
+  "all": [
+    {
+      "bp": "D21_基于多级膜分离与吸附联用的鲜味肽定向纯化工艺",
+      "project_name": "基于多级膜分离与吸附联用的鲜味肽定向纯化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.4097,
+      "text_score_norm": 1.0,
+      "combined": 1.0,
+      "text_rank": 1,
+      "combined_rank": 1
+    },
+    {
+      "bp": "D08_鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "project_name": "鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.2974,
+      "text_score_norm": 0.7259,
+      "combined": 0.863,
+      "text_rank": 2,
+      "combined_rank": 2
+    },
+    {
+      "bp": "D17_高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "project_name": "高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.1002,
+      "text_score_norm": 0.2445,
+      "combined": 0.6222,
+      "text_rank": 4,
+      "combined_rank": 3
+    },
+    {
+      "bp": "D22_重组人乳铁蛋白在丝状真菌中的高效表达",
+      "project_name": "重组人乳铁蛋白在丝状真菌中的高效表达",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.099,
+      "text_score_norm": 0.2417,
+      "combined": 0.6209,
+      "text_rank": 5,
+      "combined_rank": 4
+    },
+    {
+      "bp": "D13_乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "project_name": "乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0797,
+      "text_score_norm": 0.1945,
+      "combined": 0.5973,
+      "text_rank": 7,
+      "combined_rank": 5
+    },
+    {
+      "bp": "D03_工程菌发酵生产天然抗氧化剂紫檀芪",
+      "project_name": "工程菌发酵生产天然抗氧化剂紫檀芪",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.074,
+      "text_score_norm": 0.1806,
+      "combined": 0.5903,
+      "text_rank": 9,
+      "combined_rank": 6
+    },
+    {
+      "bp": "D02_生物酶法脱胶用于植物油精炼的绿色工艺",
+      "project_name": "生物酶法脱胶用于植物油精炼的绿色工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.072,
+      "text_score_norm": 0.1758,
+      "combined": 0.5879,
+      "text_rank": 10,
+      "combined_rank": 7
+    },
+    {
+      "bp": "D16_微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "project_name": "微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0629,
+      "text_score_norm": 0.1535,
+      "combined": 0.5767,
+      "text_rank": 11,
+      "combined_rank": 8
+    },
+    {
+      "bp": "D23_固定化酶法合成低聚半乳糖的连续化工艺",
+      "project_name": "固定化酶法合成低聚半乳糖的连续化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0619,
+      "text_score_norm": 0.151,
+      "combined": 0.5755,
+      "text_rank": 12,
+      "combined_rank": 9
+    },
+    {
+      "bp": "D11_微藻光生物反应器高效固碳联产虾青素",
+      "project_name": "微藻光生物反应器高效固碳联产虾青素",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0581,
+      "text_score_norm": 0.1418,
+      "combined": 0.5709,
+      "text_rank": 14,
+      "combined_rank": 10
+    },
+    {
+      "bp": "D24_基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "project_name": "基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0545,
+      "text_score_norm": 0.1331,
+      "combined": 0.5666,
+      "text_rank": 17,
+      "combined_rank": 11
+    },
+    {
+      "bp": "D25_基于仿生亲和材料的靶向捕获-梯度洗脱技术",
+      "project_name": "基于仿生亲和材料的靶向捕获-梯度洗脱技术",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.114,
+      "text_score_norm": 0.2783,
+      "combined": 0.4725,
+      "text_rank": 3,
+      "combined_rank": 12
+    },
+    {
+      "bp": "D01_重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "project_name": "重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0803,
+      "text_score_norm": 0.196,
+      "combined": 0.4314,
+      "text_rank": 6,
+      "combined_rank": 13
+    },
+    {
+      "bp": "D20_酶法定向合成结构可控的甘油葡糖苷",
+      "project_name": "酶法定向合成结构可控的甘油葡糖苷",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0744,
+      "text_score_norm": 0.1815,
+      "combined": 0.4241,
+      "text_rank": 8,
+      "combined_rank": 14
+    },
+    {
+      "bp": "D14_基于极端酶定向进化的长效生物催化剂开发",
+      "project_name": "基于极端酶定向进化的长效生物催化剂开发",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.06,
+      "text_score_norm": 0.1465,
+      "combined": 0.4066,
+      "text_rank": 13,
+      "combined_rank": 15
+    },
+    {
+      "bp": "D15_无细胞蛋白合成体系用于快速检测用酶的生产",
+      "project_name": "无细胞蛋白合成体系用于快速检测用酶的生产",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0565,
+      "text_score_norm": 0.1378,
+      "combined": 0.4022,
+      "text_rank": 15,
+      "combined_rank": 16
+    },
+    {
+      "bp": "D10_微生物合成可降解聚羟基脂肪酸酯医用缝合线材料",
+      "project_name": "微生物合成可降解聚羟基脂肪酸酯医用缝合线材料",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0481,
+      "text_score_norm": 0.1175,
+      "combined": 0.3921,
+      "text_rank": 20,
+      "combined_rank": 17
+    },
+    {
+      "bp": "D09_耐高温饲用乳酸菌微囊化制剂开发",
+      "project_name": "耐高温饲用乳酸菌微囊化制剂开发",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0427,
+      "text_score_norm": 0.1042,
+      "combined": 0.3854,
+      "text_rank": 23,
+      "combined_rank": 18
+    },
+    {
+      "bp": "D30_高通量单细胞微流控拉曼分选仪",
+      "project_name": "高通量单细胞微流控拉曼分选仪",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0467,
+      "text_score_norm": 0.1139,
+      "combined": 0.2236,
+      "text_rank": 21,
+      "combined_rank": 19
+    },
+    {
+      "bp": "D19_基于合成生物学与冻干保护剂配方的益生菌常温储运技术",
+      "project_name": "基于合成生物学与冻干保护剂配方的益生菌常温储运技术",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0441,
+      "text_score_norm": 0.1077,
+      "combined": 0.2205,
+      "text_rank": 22,
+      "combined_rank": 20
+    },
+    {
+      "bp": "D27_耐宽pH高温重组漆酶高效表达与稳定化技术",
+      "project_name": "耐宽pH高温重组漆酶高效表达与稳定化技术",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "食品营养［推测］"
+      ],
+      "text_score": 0.041,
+      "text_score_norm": 0.1001,
+      "combined": 0.2167,
+      "text_rank": 24,
+      "combined_rank": 21
+    },
+    {
+      "bp": "D06_厌氧发酵耦合电化学强化产甲烷菌群调控技术",
+      "project_name": "厌氧发酵耦合电化学强化产甲烷菌群调控技术",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "食品营养［推测］"
+      ],
+      "text_score": 0.0406,
+      "text_score_norm": 0.099,
+      "combined": 0.2162,
+      "text_rank": 25,
+      "combined_rank": 22
+    },
+    {
+      "bp": "D04_麦角硫因发酵液高效检测与质量评价体系",
+      "project_name": "麦角硫因发酵液高效检测与质量评价体系",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0548,
+      "text_score_norm": 0.1337,
+      "combined": 0.0668,
+      "text_rank": 16,
+      "combined_rank": 23
+    },
+    {
+      "bp": "D29_重组漆酶高产菌株构建及检测方法开发",
+      "project_name": "重组漆酶高产菌株构建及检测方法开发",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0511,
+      "text_score_norm": 0.1246,
+      "combined": 0.0623,
+      "text_rank": 18,
+      "combined_rank": 24
+    },
+    {
+      "bp": "D07_L-赖氨酸高产菌株快速筛选与发酵优化试剂盒",
+      "project_name": "L-赖氨酸高产菌株快速筛选与发酵优化试剂盒",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0491,
+      "text_score_norm": 0.1197,
+      "combined": 0.0599,
+      "text_rank": 19,
+      "combined_rank": 25
+    },
+    {
+      "bp": "D28_耐盐碱固氮微生物菌剂的规模化制备",
+      "project_name": "耐盐碱固氮微生物菌剂的规模化制备",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0402,
+      "text_score_norm": 0.0981,
+      "combined": 0.049,
+      "text_rank": 26,
+      "combined_rank": 26
+    },
+    {
+      "bp": "D05_发酵过程多参数在线智能调控系统",
+      "project_name": "发酵过程多参数在线智能调控系统",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0387,
+      "text_score_norm": 0.0944,
+      "combined": 0.0472,
+      "text_rank": 27,
+      "combined_rank": 27
+    },
+    {
+      "bp": "D12_细胞代谢流动态平衡调控平台",
+      "project_name": "细胞代谢流动态平衡调控平台",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0376,
+      "text_score_norm": 0.0919,
+      "combined": 0.0459,
+      "text_rank": 28,
+      "combined_rank": 28
+    },
+    {
+      "bp": "D26_饲用乳酸菌制剂活菌快速检测试剂盒",
+      "project_name": "饲用乳酸菌制剂活菌快速检测试剂盒",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0358,
+      "text_score_norm": 0.0874,
+      "combined": 0.0437,
+      "text_rank": 29,
+      "combined_rank": 29
+    },
+    {
+      "bp": "D18_微生物诱导碳酸钙沉淀用于建筑裂缝自修复",
+      "project_name": "微生物诱导碳酸钙沉淀用于建筑裂缝自修复",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0345,
+      "text_score_norm": 0.0842,
+      "combined": 0.0421,
+      "text_rank": 30,
+      "combined_rank": 30
+    }
+  ]
+}

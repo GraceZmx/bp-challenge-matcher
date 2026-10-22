@@ -1,0 +1,57 @@
+{
+  "tech_relevance": {
+    "score": 5,
+    "comment": "BP核心为极端酶定向进化与催化聚集体制剂，目标产物为多铜氧化酶催化剂，与麦角硫因生物制造工艺无直接关联。"
+  },
+  "process_match": {
+    "score": 6,
+    "comment": "BP涉及分离纯化、制剂/成品环节，但针对酶制剂而非麦角硫因，且未展示麦角硫因发酵或纯化能力。"
+  },
+  "maturity": {
+    "score": 12,
+    "comment": "BP处于中试阶段，达到题目推测的中试成熟度要求。"
+  },
+  "evidence_strength": {
+    "score": 8,
+    "comment": "BP提供了中试规模量化指标，但多项数据标注待核实，且与麦角硫因无关，证据强度有限。"
+  },
+  "inference_deductions": [
+    {
+      "criterion": "process_match",
+      "points": 3,
+      "reason": "题目工艺环节中‘制剂/成品’为推测，BP有制剂能力，因此项推测吻合在process_match中给了6分，扣减一半。"
+    }
+  ],
+  "recommendation": "BP技术路线与麦角硫因生物制造不相关，无法解决发酵产量低、纯化收率低及稳定性差等核心问题，不建议推荐。",
+  "evidence_quotes": [
+    "本项目技术对象为来源于嗜热古菌的多铜氧化酶家族新成员",
+    "产品形态为液体催化聚集体制剂及可固定化载体复合制剂两类",
+    "报名阶段为中试。公司已完成3000 L罐中试放大验证"
+  ],
+  "gaps_risks": [
+    "BP未涉及麦角硫因的发酵生产或纯化工艺，无法解决产量低和杂质谱复杂问题。",
+    "BP未提供麦角硫因产品的光/热稳定性数据或解决方案。",
+    "BP的酶催化剂应用领域为化工材料，与美妆抗衰精华原料要求不匹配。"
+  ],
+  "raw_total": 31,
+  "inference_deducted": 3,
+  "total": 28,
+  "relies_on_inference": true,
+  "bp": "D14_基于极端酶定向进化的长效生物催化剂开发",
+  "project_name": "基于极端酶定向进化的长效生物催化剂开发",
+  "company_name": "极韧生物技术有限公司",
+  "coarse": {
+    "bp": "D14_基于极端酶定向进化的长效生物催化剂开发",
+    "project_name": "基于极端酶定向进化的长效生物催化剂开发",
+    "tag_score": 0.5,
+    "matched_tags": [
+      "分离纯化［原文］",
+      "制剂/成品［推测］"
+    ],
+    "text_score": 0.0804,
+    "text_score_norm": 0.2843,
+    "combined": 0.3921,
+    "text_rank": 14,
+    "combined_rank": 14
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "tech_relevance": {
+    "score": 5,
+    "comment": "BP核心是鲜味肽/苦味肽免疫检测试剂盒，与饲用乳酸菌高温制粒存活率提升技术无关。"
+  },
+  "process_match": {
+    "score": 3,
+    "comment": "BP仅涉及制剂/成品环节的试剂盒组装，与乳酸菌制剂工艺无实质关联。"
+  },
+  "maturity": {
+    "score": 8,
+    "comment": "BP处于小试阶段，但题目未明确最低成熟度要求，按小试给8分。"
+  },
+  "evidence_strength": {
+    "score": 2,
+    "comment": "BP量化数据均为检测试剂盒指标，且多处标注待核实，无任何与乳酸菌热耐受相关的证据。"
+  },
+  "inference_deductions": [],
+  "recommendation": "不推荐。该项目为食品检测试剂盒开发，与饲用乳酸菌高温制粒存活率提升的技术需求完全不相关，无法解决企业难题。",
+  "evidence_quotes": [
+    "本项目技术对象为酶解鱼蛋白体系中的鲜味肽与苦味肽。",
+    "产品形态为鲜味肽竞争性酶联免疫检测试剂盒（含配套试剂与标准品）及苦味肽半定量试纸",
+    "报名阶段为小试。"
+  ],
+  "gaps_risks": [
+    "缺乏乳酸菌菌株构建、热耐受性改造或保护剂配方等核心技术能力。",
+    "无高温制粒工艺相关经验或数据。",
+    "无饲用乳酸菌制剂产品开发背景。"
+  ],
+  "raw_total": 18,
+  "inference_deducted": 0,
+  "total": 18,
+  "relies_on_inference": false,
+  "bp": "D08_鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+  "project_name": "鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+  "company_name": "速检生物技术有限公司",
+  "coarse": {
+    "bp": "D08_鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+    "project_name": "鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+    "tag_score": 0.5,
+    "matched_tags": [
+      "制剂/成品［原文］"
+    ],
+    "text_score": 0.0414,
+    "text_score_norm": 0.1212,
+    "combined": 0.3106,
+    "text_rank": 30,
+    "combined_rank": 14
+  }
+}

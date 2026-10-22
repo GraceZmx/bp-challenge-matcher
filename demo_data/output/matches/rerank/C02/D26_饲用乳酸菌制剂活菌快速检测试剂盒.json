@@ -1,0 +1,51 @@
+{
+  "tech_relevance": {
+    "score": 12,
+    "comment": "BP为检测试剂盒，用于评估存活率，而非直接提升存活率，仅部分环节相关。"
+  },
+  "process_match": {
+    "score": 5,
+    "comment": "BP聚焦分析检测环节，未涉及制剂/成品或菌种构建等提升存活率的工艺环节。"
+  },
+  "maturity": {
+    "score": 8,
+    "comment": "BP处于小试阶段，符合题目无最低成熟度要求时的阶段评分。"
+  },
+  "evidence_strength": {
+    "score": 8,
+    "comment": "BP提供了检测时间、检测限等量化目标，但多项数据标注待核实，缺乏可核查的验证证据。"
+  },
+  "inference_deductions": [],
+  "recommendation": "该BP为检测试剂盒，可辅助评估存活率，但无法直接解决高温制粒存活率提升的核心问题，技术路线不匹配，不建议推荐。",
+  "evidence_quotes": [
+    "本产品用于饲料厂对植物乳杆菌活菌数的现场快速判定，帮助掌握高温制粒前后制剂存活率变化，并为植物乳杆菌耐受性评价提供检测手段。",
+    "15分钟内完成定量检测",
+    "需补充与平板计数法平行比对的时间记录，明确计时起点与终点",
+    "报名阶段为小试。"
+  ],
+  "gaps_risks": [
+    "BP不涉及提升存活率的菌株改造、保护剂或制剂工艺技术，无法直接解决企业难题。",
+    "检测试剂盒仅能用于效果评估，不能替代耐受性提升技术开发。",
+    "BP多项关键数据待核实，证据强度不足。"
+  ],
+  "raw_total": 33,
+  "inference_deducted": 0,
+  "total": 33,
+  "relies_on_inference": false,
+  "bp": "D26_饲用乳酸菌制剂活菌快速检测试剂盒",
+  "project_name": "饲用乳酸菌制剂活菌快速检测试剂盒",
+  "company_name": "精准检测科技有限公司",
+  "coarse": {
+    "bp": "D26_饲用乳酸菌制剂活菌快速检测试剂盒",
+    "project_name": "饲用乳酸菌制剂活菌快速检测试剂盒",
+    "tag_score": 0.25,
+    "matched_tags": [
+      "农业养殖［推测］"
+    ],
+    "text_score": 0.3214,
+    "text_score_norm": 0.9409,
+    "combined": 0.5955,
+    "text_rank": 2,
+    "combined_rank": 4
+  }
+}

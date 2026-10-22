@@ -1,0 +1,11 @@
+{
+  "C01": {
+    "_note": "示例：人工确认后，覆盖模型抽取的字段；重跑 structure_challenges.py 时自动套用。真实的修正文件 challenge_overrides.json 不公开",
+    "removed_content": [],
+    "core_problem_inferred": {
+      "value": "（人工确认后的补充理解）",
+      "source": "推测",
+      "basis": "（为什么这样理解，谁在什么时候确认的）"
+    }
+  }
+}

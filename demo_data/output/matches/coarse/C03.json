@@ -1,0 +1,642 @@
+{
+  "challenge_id": "C03",
+  "company": "上海润珀生物科技有限公司",
+  "query_original": "我司急需开发高纯度、高稳定性的麦角硫因生物制造工艺。当前痛点：发酵液中麦角硫因产量低且杂质谱复杂，下游纯化收率不足40%，产品在光照和高温下易降解，无法满足高端抗衰精华的配方要求。 麦角硫因 高端抗衰精华 麦角硫因 生物制造 高纯度 高稳定性 发酵 纯化 杂质谱 抗衰精华",
+  "query_inferred": "需要同时解决发酵产量低、杂质谱复杂导致纯化收率低，以及产品光/热稳定性差的问题，以满足高端抗衰精华配方对高纯度、高稳定性麦角硫因原料的要求。",
+  "weights": {
+    "tag": 0.5,
+    "text": 0.5
+  },
+  "excluded_self": [],
+  "candidates": [
+    {
+      "bp": "D17_高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "project_name": "高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.2827,
+      "text_score_norm": 1.0,
+      "combined": 1.0,
+      "text_rank": 1,
+      "combined_rank": 1
+    },
+    {
+      "bp": "D24_基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "project_name": "基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.1158,
+      "text_score_norm": 0.4097,
+      "combined": 0.7048,
+      "text_rank": 5,
+      "combined_rank": 2
+    },
+    {
+      "bp": "D03_工程菌发酵生产天然抗氧化剂紫檀芪",
+      "project_name": "工程菌发酵生产天然抗氧化剂紫檀芪",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.1146,
+      "text_score_norm": 0.4055,
+      "combined": 0.6194,
+      "text_rank": 6,
+      "combined_rank": 3
+    },
+    {
+      "bp": "D16_微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "project_name": "微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.1104,
+      "text_score_norm": 0.3904,
+      "combined": 0.6119,
+      "text_rank": 7,
+      "combined_rank": 4
+    },
+    {
+      "bp": "D13_乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "project_name": "乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0957,
+      "text_score_norm": 0.3385,
+      "combined": 0.5859,
+      "text_rank": 8,
+      "combined_rank": 5
+    },
+    {
+      "bp": "D20_酶法定向合成结构可控的甘油葡糖苷",
+      "project_name": "酶法定向合成结构可控的甘油葡糖苷",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "制剂/成品［推测］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.1382,
+      "text_score_norm": 0.489,
+      "combined": 0.5778,
+      "text_rank": 3,
+      "combined_rank": 6
+    },
+    {
+      "bp": "D22_重组人乳铁蛋白在丝状真菌中的高效表达",
+      "project_name": "重组人乳铁蛋白在丝状真菌中的高效表达",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.1266,
+      "text_score_norm": 0.4478,
+      "combined": 0.5572,
+      "text_rank": 4,
+      "combined_rank": 7
+    },
+    {
+      "bp": "D04_麦角硫因发酵液高效检测与质量评价体系",
+      "project_name": "麦角硫因发酵液高效检测与质量评价体系",
+      "tag_score": 0.1667,
+      "matched_tags": [
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.2653,
+      "text_score_norm": 0.9386,
+      "combined": 0.5527,
+      "text_rank": 2,
+      "combined_rank": 8
+    },
+    {
+      "bp": "D09_耐高温饲用乳酸菌微囊化制剂开发",
+      "project_name": "耐高温饲用乳酸菌微囊化制剂开发",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0664,
+      "text_score_norm": 0.2348,
+      "combined": 0.5341,
+      "text_rank": 24,
+      "combined_rank": 9
+    },
+    {
+      "bp": "D10_微生物合成可降解聚羟基脂肪酸酯医用缝合线材料",
+      "project_name": "微生物合成可降解聚羟基脂肪酸酯医用缝合线材料",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0597,
+      "text_score_norm": 0.2111,
+      "combined": 0.5222,
+      "text_rank": 28,
+      "combined_rank": 10
+    },
+    {
+      "bp": "D01_重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "project_name": "重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0928,
+      "text_score_norm": 0.3283,
+      "combined": 0.4975,
+      "text_rank": 11,
+      "combined_rank": 11
+    },
+    {
+      "bp": "D11_微藻光生物反应器高效固碳联产虾青素",
+      "project_name": "微藻光生物反应器高效固碳联产虾青素",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0668,
+      "text_score_norm": 0.2364,
+      "combined": 0.4515,
+      "text_rank": 23,
+      "combined_rank": 12
+    },
+    {
+      "bp": "D27_耐宽pH高温重组漆酶高效表达与稳定化技术",
+      "project_name": "耐宽pH高温重组漆酶高效表达与稳定化技术",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0846,
+      "text_score_norm": 0.2994,
+      "combined": 0.3997,
+      "text_rank": 12,
+      "combined_rank": 13
+    },
+    {
+      "bp": "D14_基于极端酶定向进化的长效生物催化剂开发",
+      "project_name": "基于极端酶定向进化的长效生物催化剂开发",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0804,
+      "text_score_norm": 0.2843,
+      "combined": 0.3921,
+      "text_rank": 14,
+      "combined_rank": 14
+    },
+    {
+      "bp": "D08_鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "project_name": "鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0803,
+      "text_score_norm": 0.2842,
+      "combined": 0.3921,
+      "text_rank": 15,
+      "combined_rank": 15
+    }
+  ],
+  "all": [
+    {
+      "bp": "D17_高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "project_name": "高产麦角硫因工程菌株构建与绿色纯化工艺",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.2827,
+      "text_score_norm": 1.0,
+      "combined": 1.0,
+      "text_rank": 1,
+      "combined_rank": 1
+    },
+    {
+      "bp": "D24_基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "project_name": "基于合成生物学与冻干保护剂配方的抗氧化小分子高效制备平台",
+      "tag_score": 1.0,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.1158,
+      "text_score_norm": 0.4097,
+      "combined": 0.7048,
+      "text_rank": 5,
+      "combined_rank": 2
+    },
+    {
+      "bp": "D03_工程菌发酵生产天然抗氧化剂紫檀芪",
+      "project_name": "工程菌发酵生产天然抗氧化剂紫檀芪",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.1146,
+      "text_score_norm": 0.4055,
+      "combined": 0.6194,
+      "text_rank": 6,
+      "combined_rank": 3
+    },
+    {
+      "bp": "D16_微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "project_name": "微生物发酵法生产母乳低聚糖2'-岩藻糖基乳糖",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.1104,
+      "text_score_norm": 0.3904,
+      "combined": 0.6119,
+      "text_rank": 7,
+      "combined_rank": 4
+    },
+    {
+      "bp": "D13_乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "project_name": "乳酸菌发酵生产γ-氨基丁酸的定向富集工艺",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0957,
+      "text_score_norm": 0.3385,
+      "combined": 0.5859,
+      "text_rank": 8,
+      "combined_rank": 5
+    },
+    {
+      "bp": "D20_酶法定向合成结构可控的甘油葡糖苷",
+      "project_name": "酶法定向合成结构可控的甘油葡糖苷",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "制剂/成品［推测］",
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.1382,
+      "text_score_norm": 0.489,
+      "combined": 0.5778,
+      "text_rank": 3,
+      "combined_rank": 6
+    },
+    {
+      "bp": "D22_重组人乳铁蛋白在丝状真菌中的高效表达",
+      "project_name": "重组人乳铁蛋白在丝状真菌中的高效表达",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.1266,
+      "text_score_norm": 0.4478,
+      "combined": 0.5572,
+      "text_rank": 4,
+      "combined_rank": 7
+    },
+    {
+      "bp": "D04_麦角硫因发酵液高效检测与质量评价体系",
+      "project_name": "麦角硫因发酵液高效检测与质量评价体系",
+      "tag_score": 0.1667,
+      "matched_tags": [
+        "美妆日化［推测］"
+      ],
+      "text_score": 0.2653,
+      "text_score_norm": 0.9386,
+      "combined": 0.5527,
+      "text_rank": 2,
+      "combined_rank": 8
+    },
+    {
+      "bp": "D09_耐高温饲用乳酸菌微囊化制剂开发",
+      "project_name": "耐高温饲用乳酸菌微囊化制剂开发",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0664,
+      "text_score_norm": 0.2348,
+      "combined": 0.5341,
+      "text_rank": 24,
+      "combined_rank": 9
+    },
+    {
+      "bp": "D10_微生物合成可降解聚羟基脂肪酸酯医用缝合线材料",
+      "project_name": "微生物合成可降解聚羟基脂肪酸酯医用缝合线材料",
+      "tag_score": 0.8333,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0597,
+      "text_score_norm": 0.2111,
+      "combined": 0.5222,
+      "text_rank": 28,
+      "combined_rank": 10
+    },
+    {
+      "bp": "D01_重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "project_name": "重组人源化胶原蛋白三螺旋稳定表达与纯化",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0928,
+      "text_score_norm": 0.3283,
+      "combined": 0.4975,
+      "text_rank": 11,
+      "combined_rank": 11
+    },
+    {
+      "bp": "D11_微藻光生物反应器高效固碳联产虾青素",
+      "project_name": "微藻光生物反应器高效固碳联产虾青素",
+      "tag_score": 0.6667,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0668,
+      "text_score_norm": 0.2364,
+      "combined": 0.4515,
+      "text_rank": 23,
+      "combined_rank": 12
+    },
+    {
+      "bp": "D27_耐宽pH高温重组漆酶高效表达与稳定化技术",
+      "project_name": "耐宽pH高温重组漆酶高效表达与稳定化技术",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0846,
+      "text_score_norm": 0.2994,
+      "combined": 0.3997,
+      "text_rank": 12,
+      "combined_rank": 13
+    },
+    {
+      "bp": "D14_基于极端酶定向进化的长效生物催化剂开发",
+      "project_name": "基于极端酶定向进化的长效生物催化剂开发",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0804,
+      "text_score_norm": 0.2843,
+      "combined": 0.3921,
+      "text_rank": 14,
+      "combined_rank": 14
+    },
+    {
+      "bp": "D08_鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "project_name": "鲜味肽含量快速检测试剂盒及酶解鱼蛋白品质评价方法",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "分离纯化［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0803,
+      "text_score_norm": 0.2842,
+      "combined": 0.3921,
+      "text_rank": 15,
+      "combined_rank": 15
+    },
+    {
+      "bp": "D19_基于合成生物学与冻干保护剂配方的益生菌常温储运技术",
+      "project_name": "基于合成生物学与冻干保护剂配方的益生菌常温储运技术",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0724,
+      "text_score_norm": 0.256,
+      "combined": 0.378,
+      "text_rank": 19,
+      "combined_rank": 16
+    },
+    {
+      "bp": "D28_耐盐碱固氮微生物菌剂的规模化制备",
+      "project_name": "耐盐碱固氮微生物菌剂的规模化制备",
+      "tag_score": 0.5,
+      "matched_tags": [
+        "发酵/培养［原文］",
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0645,
+      "text_score_norm": 0.2283,
+      "combined": 0.3641,
+      "text_rank": 25,
+      "combined_rank": 17
+    },
+    {
+      "bp": "D21_基于多级膜分离与吸附联用的鲜味肽定向纯化工艺",
+      "project_name": "基于多级膜分离与吸附联用的鲜味肽定向纯化工艺",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0957,
+      "text_score_norm": 0.3385,
+      "combined": 0.3359,
+      "text_rank": 9,
+      "combined_rank": 18
+    },
+    {
+      "bp": "D25_基于仿生亲和材料的靶向捕获-梯度洗脱技术",
+      "project_name": "基于仿生亲和材料的靶向捕获-梯度洗脱技术",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0944,
+      "text_score_norm": 0.3339,
+      "combined": 0.3336,
+      "text_rank": 10,
+      "combined_rank": 19
+    },
+    {
+      "bp": "D02_生物酶法脱胶用于植物油精炼的绿色工艺",
+      "project_name": "生物酶法脱胶用于植物油精炼的绿色工艺",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0749,
+      "text_score_norm": 0.2651,
+      "combined": 0.2992,
+      "text_rank": 17,
+      "combined_rank": 20
+    },
+    {
+      "bp": "D23_固定化酶法合成低聚半乳糖的连续化工艺",
+      "project_name": "固定化酶法合成低聚半乳糖的连续化工艺",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0737,
+      "text_score_norm": 0.2608,
+      "combined": 0.2971,
+      "text_rank": 18,
+      "combined_rank": 21
+    },
+    {
+      "bp": "D30_高通量单细胞微流控拉曼分选仪",
+      "project_name": "高通量单细胞微流控拉曼分选仪",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "发酵/培养［原文］"
+      ],
+      "text_score": 0.0706,
+      "text_score_norm": 0.2498,
+      "combined": 0.2916,
+      "text_rank": 21,
+      "combined_rank": 22
+    },
+    {
+      "bp": "D07_L-赖氨酸高产菌株快速筛选与发酵优化试剂盒",
+      "project_name": "L-赖氨酸高产菌株快速筛选与发酵优化试剂盒",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "发酵/培养［原文］"
+      ],
+      "text_score": 0.07,
+      "text_score_norm": 0.2477,
+      "combined": 0.2905,
+      "text_rank": 22,
+      "combined_rank": 23
+    },
+    {
+      "bp": "D06_厌氧发酵耦合电化学强化产甲烷菌群调控技术",
+      "project_name": "厌氧发酵耦合电化学强化产甲烷菌群调控技术",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "发酵/培养［原文］"
+      ],
+      "text_score": 0.0615,
+      "text_score_norm": 0.2176,
+      "combined": 0.2755,
+      "text_rank": 26,
+      "combined_rank": 24
+    },
+    {
+      "bp": "D15_无细胞蛋白合成体系用于快速检测用酶的生产",
+      "project_name": "无细胞蛋白合成体系用于快速检测用酶的生产",
+      "tag_score": 0.3333,
+      "matched_tags": [
+        "分离纯化［原文］"
+      ],
+      "text_score": 0.0523,
+      "text_score_norm": 0.185,
+      "combined": 0.2592,
+      "text_rank": 30,
+      "combined_rank": 25
+    },
+    {
+      "bp": "D18_微生物诱导碳酸钙沉淀用于建筑裂缝自修复",
+      "project_name": "微生物诱导碳酸钙沉淀用于建筑裂缝自修复",
+      "tag_score": 0.1667,
+      "matched_tags": [
+        "制剂/成品［推测］"
+      ],
+      "text_score": 0.0567,
+      "text_score_norm": 0.2005,
+      "combined": 0.1836,
+      "text_rank": 29,
+      "combined_rank": 26
+    },
+    {
+      "bp": "D29_重组漆酶高产菌株构建及检测方法开发",
+      "project_name": "重组漆酶高产菌株构建及检测方法开发",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0825,
+      "text_score_norm": 0.2917,
+      "combined": 0.1458,
+      "text_rank": 13,
+      "combined_rank": 27
+    },
+    {
+      "bp": "D26_饲用乳酸菌制剂活菌快速检测试剂盒",
+      "project_name": "饲用乳酸菌制剂活菌快速检测试剂盒",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.075,
+      "text_score_norm": 0.2653,
+      "combined": 0.1327,
+      "text_rank": 16,
+      "combined_rank": 28
+    },
+    {
+      "bp": "D12_细胞代谢流动态平衡调控平台",
+      "project_name": "细胞代谢流动态平衡调控平台",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0716,
+      "text_score_norm": 0.2532,
+      "combined": 0.1266,
+      "text_rank": 20,
+      "combined_rank": 29
+    },
+    {
+      "bp": "D05_发酵过程多参数在线智能调控系统",
+      "project_name": "发酵过程多参数在线智能调控系统",
+      "tag_score": 0.0,
+      "matched_tags": [],
+      "text_score": 0.0605,
+      "text_score_norm": 0.2139,
+      "combined": 0.1069,
+      "text_rank": 27,
+      "combined_rank": 30
+    }
+  ]
+}

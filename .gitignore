@@ -1,0 +1,27 @@
+# 密钥：绝对不能上传
+.env
+
+# 原始数据和输出结果：不上传
+/data/
+/output/
+
+# Python 自动生成的文件
+.venv/
+__pycache__/
+*.pyc
+
+# Mac 系统文件
+.DS_Store
+
+# 合成数据的生成中间文件：里面是人工改名之前的原始名称，不上传
+demo_data/.specs_cache.json
+
+# Office/WPS 打开文件时生成的临时锁文件
+.~*
+~$*
+
+# 内部迭代记录含真实赛题内容，不公开（公开版见 docs/iteration_log_public.md）
+docs/iteration_log.md
+
+# 针对真实数据的人工修正，含真实赛题内容，不公开（格式见 challenge_overrides.example.json）
+config/challenge_overrides.json
